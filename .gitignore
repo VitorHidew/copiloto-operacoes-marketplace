@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+cache/*
+!cache/.gitkeep
+results/*
+!results/README.md
+data/pedidos_gerados*.csv
+*.log
+.streamlit/secrets.toml
