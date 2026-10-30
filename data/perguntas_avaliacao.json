@@ -1,0 +1,6 @@
+[
+  {"pergunta":"Qual região lidera atrasos?","esperado":"por_regiao"},
+  {"pergunta":"Qual é a taxa de cancelamento?","esperado":"taxa_cancelamento"},
+  {"pergunta":"Qual é o ticket médio?","esperado":"ticket_medio"},
+  {"pergunta":"Quais hipóteses investigar?","esperado":"hipoteses"}
+]
